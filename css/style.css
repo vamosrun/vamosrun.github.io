@@ -1,6 +1,9 @@
-.logo-run img { max-width: 100%; }
+img.logorun { max-width: 100%; }
+.logo-run{
+  text-align:center;
+}
 @media screen and (min-width: 500px) {
-  .logo-run img{
+  img.logorun{
     max-width:50%;
   }
 }
