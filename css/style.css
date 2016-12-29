@@ -7,3 +7,7 @@ img.logorun { max-width: 100% !important; }
     max-width:50% !important;
   }
 }
+footer{
+  margin-top:10px;
+  text-align:center;
+}
