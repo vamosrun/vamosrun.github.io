@@ -1,2 +1,7 @@
-
+@media screen and (min-width: 600px) {
+  #red-circle { stroke-width: 20px; }
+  img{
+    max-width:50%;
+  }
+}
 img { max-width: 100%; }
